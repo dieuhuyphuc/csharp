@@ -1,0 +1,6 @@
+D:\rider\First_prg\Part4\obj\Debug\Part4.csprojAssemblyReference.cache
+D:\rider\First_prg\Part4\obj\Debug\Part4.csproj.CoreCompileInputs.cache
+D:\rider\First_prg\Part4\bin\Debug\Part4.exe
+D:\rider\First_prg\Part4\bin\Debug\Part4.pdb
+D:\rider\First_prg\Part4\obj\Debug\Part4.exe
+D:\rider\First_prg\Part4\obj\Debug\Part4.pdb
